@@ -55,4 +55,6 @@ Whether you’re a newcomer or a veteran darknet user, **Nexus onion nexustormar
 <a href="http://nexusya4eiklfwqoly52t4igcrcu3lgtaykkjbnsncjcmkcufxoca6yd.onion"><img src="/asset/manager.webp" style="max-width: 100%;"></a>
 <a href="http://nexusya4eiklfwqoly52t4igcrcu3lgtaykkjbnsncjcmkcufxoca6yd.onion"><img src="/asset/search.webp" style="max-width: 100%;"></a>
 
-Update:  14.09.2025
+
+
+Update:  18 September 2025

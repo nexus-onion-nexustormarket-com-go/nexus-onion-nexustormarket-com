@@ -57,4 +57,6 @@ Whether you’re a newcomer or a veteran darknet user, **Nexus onion nexustormar
 
 
 
-Update:  18 September 2025
+
+
+Update:  01 October url is now operational and clickable
